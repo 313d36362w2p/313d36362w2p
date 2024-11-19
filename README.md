@@ -1,1 +1,1 @@
-<img src="https://64.media.tumblr.com/b67cd98c9fb2dbbbf3564b0d64d1ac2d/e6bd6eee618d4b92-b7/s2048x3072/ab4b6cdb4e4c494049bebff7cba947ebfd0c8274.jpg" alt="Beautiful landscape" style="width: 100%; height: auto; display: block;">
+<img src="https://64.media.tumblr.com/bfa1e792afe58f5d69dac9eb6db17113/eb0ec3b08c7df5cf-ae/s2048x3072_c12135,0,88542,88519/221b3a235b176463e1d8017b7de65262a64cf9ef.jpg" alt="Beautiful landscape" style="width: 100%; height: auto; display: block;">
